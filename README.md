@@ -1,0 +1,3 @@
+# IRIS-Classification
+IRIS flowers data classification
+The project was based on the Classification of IRIS flowers by using the IRIS dataset from https://archive.ics.uci.edu/ml/datasets/Iris.  The primary section of the project includes  Installing necessary libraries  Loading dataset  Exploratory Data Analysis (Summarization and Visualization)  Evaluating algorithms  Making predictions  The project was completed on Python, and the following models were used and implemented: 1. Logistic Regression  2. Linear Discriminant Analysis  3. K-Nearest Neighbors  4. Classification and Regression Trees  5. Gaussian NB  6. Support Vector  KNN was an accurate model based on our tests, and thus it was used on validation set and summarizing the result as a final accuracy score.
